@@ -52,5 +52,5 @@ plt.show()
 
 print('Больше всего высокрейтинговых фильмов было в 2016', y16, 'а меньше в 2008', y08)
 
-
+#https://docs.google.com/presentation/d/1uhofmpIQOip3CM9Qb-K_qPNPC3i4n2DgZ1T3uEKmgXY/edit?usp=sharing
         
